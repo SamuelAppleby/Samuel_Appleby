@@ -676,19 +676,21 @@ a:hover {
 ======================================*/
 
 .about-mf .box-shadow-full {
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
 }
 
 .about-mf .about-img {
-   z-index: 20;
    margin-bottom: 2rem;
 }
 
-    .about-mf .about-img img {
-        z-index: 20;
-        margin-left: 10px;
-    }
+.about-mf .about-img img {
+    margin-left: 10px;
+}
+
+.skill-mf {
+    padding-top: 4rem;
+}
 
 .skill-mf span {
   color: #4e4e4e;
@@ -1207,7 +1209,7 @@ footer .credits a {
 
 @media (min-width: 768px) {
   .box-shadow-full {
-    padding: 3rem;
+    padding: 2rem;
   }
 
   .navbar-b.navbar-trans .nav-item,
