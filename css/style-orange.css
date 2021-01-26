@@ -681,12 +681,14 @@ a:hover {
 }
 
 .about-mf .about-img {
-  margin-bottom: 2rem;
+   z-index: 20;
+   margin-bottom: 2rem;
 }
 
-.about-mf .about-img img {
-  margin-left: 10px;
-}
+    .about-mf .about-img img {
+        z-index: 20;
+        margin-left: 10px;
+    }
 
 .skill-mf span {
   color: #4e4e4e;
