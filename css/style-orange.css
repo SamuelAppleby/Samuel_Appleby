@@ -167,7 +167,7 @@ a:hover {
 /*--/ Title Left /--*/
 
 .title-box-2 {
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .title-left {
@@ -681,7 +681,6 @@ a:hover {
 }
 
 .about-mf .about-img {
-   margin-bottom: 2rem;
 }
 
 .about-mf .about-img img {
@@ -689,7 +688,7 @@ a:hover {
 }
 
 .skill-mf {
-    padding-top: 4rem;
+    padding-top: 1rem;
 }
 
 .skill-mf span {
@@ -698,7 +697,7 @@ a:hover {
 
 .skill-mf .progress {
   background-color: #faded3;
-  margin: .5rem 0 1.2rem 0;
+  margin: .5rem 0 .5rem 0;
   border-radius: 0;
   height: .7rem;
 }
