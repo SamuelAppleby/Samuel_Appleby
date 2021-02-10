@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Samuel Appleby</h1>
+<h1 align="center">Hi, I'm Samuel Appleby</h1>
 <h3 align="center">MSc Computer Game Engineering, Newcastle University</h3>
+
+<h3 align="left">Website:</h3>
+<a href = "https://samuelappleby.github.io/SamuelAppleby/"> <img src="img/me.jpg" alt="c" width="40" height="40"/> </a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
