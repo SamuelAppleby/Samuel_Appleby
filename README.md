@@ -13,14 +13,14 @@
 <p align="left">
  <a href="https://www.facebook.com/sam.appleby.92/">
                                             <img src="img/facebook1.png" alt="Facebook" onmouseover="this.src='img/facebook.png'"
-                                                 onmouseout="this.src='img/facebook1.png'" width="10%" height="10%">
+                                                 onmouseout="this.src='img/facebook1.png'" width="5%" height="5%">
                                         </a>
                                         <a href="https://github.com/SamuelAppleby">
                                             <img src="img/github1.png" alt="Github" onmouseover="this.src='img/github.png'"
-                                                 onmouseout="this.src='img/github1.png'" width="10%" height="10%">
+                                                 onmouseout="this.src='img/github1.png'" width="5%" height="5%">
                                         </a>
                                         <a href="https://www.youtube.com/channel/UCTYYNu3L4w2ydM7KhX6sFMw">
                                             <img src="img/youtube1.png" alt="Youtube" onmouseover="this.src='img/youtube.png'"
-                                                 onmouseout="this.src='img/youtube1.png'" width="10%" height="10%">
+                                                 onmouseout="this.src='img/youtube1.png'" width="5%" height="5%">
                                         </a>
 </p>
