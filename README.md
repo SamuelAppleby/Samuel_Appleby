@@ -3,7 +3,9 @@
 <h3 align="center">BSc Computer Science Graduate, Newcastle University</h3>
 
 <h3 align="left">Website:</h3>
-<a href = "https://samuelappleby.github.io/SamuelAppleby/"> <img src="img/me.jpg" alt="c" width="40" height="40"/> </a>
+<a href = "https://samuelappleby.github.io/SamuelAppleby/">
+<img src="img/me.jpg" alt="Me" width="40" height="40"/>
+</a>
 <h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://www.facebook.com/sam.appleby.92/">
@@ -17,5 +19,5 @@
 </a>
 <a href="https://www.youtube.com/channel/UCTYYNu3L4w2ydM7KhX6sFMw">
 <img src="img/youtube.png" alt="Youtube" width="5%">
- </a>
+</a>
 </p>
